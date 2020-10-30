@@ -1,1 +1,1 @@
- "web: currency"
+go run main.go
